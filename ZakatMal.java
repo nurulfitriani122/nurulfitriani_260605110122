@@ -1,5 +1,3 @@
-package praktikum.modul04.examples;
-
 public class ZakatMal {
     public static void main(String[] args) {
         // Inisialisasi variabel
